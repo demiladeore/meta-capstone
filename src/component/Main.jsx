@@ -1,5 +1,7 @@
+import BookingForm from "./BookingForm";
+
 function Main() {
-  return <h2> Main Content </h2>;
+  return <BookingForm />;
 }
 
 export default Main;

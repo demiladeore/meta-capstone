@@ -8,7 +8,7 @@ import Footer from "./component/Footer";
 function App() {
   return (
     <>
-      <Header logo={logo} />
+      <Header />
       <Main />
       <Footer />
     </>
